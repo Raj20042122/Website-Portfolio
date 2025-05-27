@@ -71,8 +71,8 @@ function Projects() {
               description="This portfolio website showcases my CV, skills, projects, and experience as a web developer.
               It’s designed to highlight my professional journey and make it easy for potential employers or clients to
               learn about my work and capabilities."
-              ghLink="https://github.com/Raj20042122"
-              demoLink="https://github.com/Raj20042122"
+              ghLink="https://github.com/Raj20042122/Website-Portfolio.git"
+              demoLink="https://website-portfolio-raj20042122s-projects.vercel.app/"
             />
           </Col>
 
